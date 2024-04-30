@@ -58,10 +58,10 @@ URL is broken or not
 
 ## Maven output Build success screenshot:
  
-<p align="Left"><img src="Images/Mavenouput.png" alt="screenshot" width="800" ></p>
+<p align="Left"><img src="Images/Mavenouput.png" alt="screenshot" width="600" ></p>
 
 ## Jenkins output Build success screenshot:
-<p align="Left"><img src="Images/Jenkinsouput.png" alt="screenshot" width="800"></p>
+<p align="Left"><img src="Images/Jenkinsouput.png" alt="screenshot" width="600"></p>
 
 ## Extent report screenshots:
 <p align="Left"><img src="Images/Extentreport1.png" alt="screenshot" width="600"></p>
