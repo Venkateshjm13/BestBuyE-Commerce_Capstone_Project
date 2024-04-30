@@ -61,7 +61,7 @@ URL is broken or not
 ![Mavenoutput](https://github.com/Venkateshjm13/BestBuyE-Commerce_Capstone_Project/assets/158301208/7e9c1e95-7cb9-48dd-9868-fadacb9843e4)
 
 ## Jenkins output Build success screenshot:
-<p align="Left"><img src="Images/Jenkinsouput.png" alt="screenshot" width="600"></p>
+![Jenkinsoutput](https://github.com/Venkateshjm13/BestBuyE-Commerce_Capstone_Project/assets/158301208/fcde6306-e6ef-4c1e-b8fc-8bc60a84f7b0)
 
 ## Extent report screenshots:
 <p align="Left"><img src="Images/Extentreport1.png" alt="screenshot" width="600"></p>
