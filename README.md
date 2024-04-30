@@ -58,7 +58,7 @@ URL is broken or not
 
 ## Maven output Build success screenshot:
  
-<p align="Left"><img src="Images/Mavenouput.png" alt="screenshot" width="600" ></p>
+![Mavenoutput](https://github.com/Venkateshjm13/BestBuyE-Commerce_Capstone_Project/assets/158301208/7e9c1e95-7cb9-48dd-9868-fadacb9843e4)
 
 ## Jenkins output Build success screenshot:
 <p align="Left"><img src="Images/Jenkinsouput.png" alt="screenshot" width="600"></p>
